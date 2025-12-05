@@ -1,4 +1,4 @@
-# 👋 Hi, I'm RDEV — Junior DevOps Engineer
+# 👋 Hi, I'm RDEV — DevOps Engineer
 
 A passionate and fast-growing **Junior DevOps Engineer** focused on building reliable, automated, and scalable systems.  
 I love solving complex problems through automation, CI/CD, cloud infrastructure, and clean deployments.
